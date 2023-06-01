@@ -1,0 +1,287 @@
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Data.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Data.v18.1.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe.licenses
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.CoreCompileInputs.cache
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.CopyComplete
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Customers.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Suppliers.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_DeservedType.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Deserved.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_deservedReport.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Products.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Buy.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyQty.resources
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PayBuy.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SupplierMoney.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SuppliersReport.resources
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.Shared.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\FlashControlV71.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ShockwaveFlashObjects.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\stdole.dll
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Printing.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyReport.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Sales.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SaleQty.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PaySale.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomerMoney.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomersReport.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesReport.resources
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Return.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesProfit.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Employee.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalary.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalaryRrport.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ShowProducts.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Permissions.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ReturnReport.resources
+E:\c#projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Login.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\FlashControlV71.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\stdole.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Buy.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyQty.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomerMoney.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomersReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Deserved.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Customers.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_deservedReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_DeservedType.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Employee.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalary.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalaryRrport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PayBuy.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PaySale.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Permissions.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Printing.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Products.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Return.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ReturnReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SaleQty.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Sales.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesProfit.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ShowProducts.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SupplierMoney.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Suppliers.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SuppliersReport.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Login.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe.licenses
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.CopyComplete
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\MuhammedBarad\Desktop\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Buy.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyQty.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomerMoney.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomersReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Deserved.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Customers.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_deservedReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_DeservedType.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Employee.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalary.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalaryRrport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PayBuy.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PaySale.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Permissions.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Printing.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Products.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Return.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ReturnReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SaleQty.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Sales.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesProfit.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ShowProducts.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SupplierMoney.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Suppliers.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SuppliersReport.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Login.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe.licenses
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+D:\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.AssemblyReference.cache
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.SuggestedBindingRedirects.cache
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Buy.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyQty.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_BuyReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomerMoney.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_CustomersReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Deserved.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Customers.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_deservedReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_DeservedType.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Employee.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalary.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_EmployeeSalaryRrport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PayBuy.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_PaySale.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Permissions.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Printing.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Products.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Return.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ReturnReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SaleQty.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Sales.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesProfit.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SalesReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_ShowProducts.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SupplierMoney.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_Suppliers.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Frm_SuppliersReport.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Login.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe.licenses
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+D:\2.sinif Dersleri\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
